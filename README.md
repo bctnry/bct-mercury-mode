@@ -2,7 +2,7 @@
 
 Copyright © 2017, Brad Contenary
 
-This file is not part of GNU Emacs.
+This file is not a part of GNU Emacs.
 
 ### License
 Distributed under MIT license.
